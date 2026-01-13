@@ -17,7 +17,7 @@ header {
 header .socials a {
     color: rgb(255, 255, 255);
     margin-left: 18px;
-    font-size: 28px;
+    font-size: 30px;
     transition: 0.3s ease;
 }
 
@@ -154,4 +154,5 @@ h2 {
     color: aliceblue;
 
 }
+
 
