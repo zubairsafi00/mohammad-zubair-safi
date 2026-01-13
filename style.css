@@ -154,5 +154,13 @@ h2 {
     color: aliceblue;
 
 }
+@media (max-width: 600px) {
+  .section {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+
 
 
